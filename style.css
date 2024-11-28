@@ -1,0 +1,57 @@
+.hero{
+    background-image: url('https://www.petitsmarcels.fr/wp-content/uploads/2023/07/Les-petits-Marcels-Accessoires-hommes-et-femmes.jpg');
+    width: 99%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    display: flex ; 
+    justify-content: center;
+    align-items: center;
+}
+.hero button{
+    
+    margin-left: 40px;
+}
+.menu card{
+    margin-bottom: 30px;
+
+}
+
+.prix{
+    margin: 10px;
+    font-weight: bold;
+    margin-left: 85px;
+
+}
+#btn{
+    margin-left: 50px;
+}
+#bnd{
+    margin-left: 50px;
+}
+#bnc{
+    margin-left: 50px;
+}
+.ccd{
+ width: 90px;
+}
+h1{
+    text-align: center;
+}
+.navbar{
+background-color: blue;
+}
+body{
+  background-color: black;  
+  columns: black;
+}
+.row{
+    margin: 10px;
+}
+.container-fluid{
+     border-color: black;
+}
+footer{
+    background-color: rgb(78, 76, 76);
+    color: antiquewhite;
+}
